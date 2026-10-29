@@ -1,9 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
+  "versionCode": 5,
+  "versionName": "1.0.4",
   "forceUpdate": true,
   "cancellable": false,
-  "apkUrl": "https://example.com/your-app.apk",
+  "apkUrl": "YAHAN_APK_KA_DIRECT_LINK",
   "updateMessage": "नया अपडेट उपलब्ध है। कृपया ऐप अपडेट करें।",
   "minVersionCode": 1
 }
